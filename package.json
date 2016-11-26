@@ -1,0 +1,23 @@
+{
+  "name": "mqtt-monitor",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node mqtt-monitor.js"
+  },
+  "dependencies": {
+    "cfenv": "1.0.x",
+    "mqtt": "^1.8.0"
+  },
+  "repository": {},
+  "engines": {
+    "node": "5.10.x"
+  },
+  "description": "simple mqtt monitor",
+  "main": "mqtt-monitor.js",
+  "devDependencies": {},
+  "keywords": [
+    "IoT"
+  ],
+  "author": "fbuett",
+  "license": "ISC"
+}
